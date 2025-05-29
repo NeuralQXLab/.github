@@ -12,3 +12,4 @@ You can find here some of our public works
 ## Paper-associated repositories
 
 - [PTVMC Systematic Study](https://github.com/NeuralQXLab/ptvmc-systematic-study) : State-of-the-art implementation of Infidelity optimization for NetKet, as well as infidelity-based dynamics, with autotuning of hyperparameters.
+- [ConvNext NNQS](https://github.com/NeuralQXLab/convnextnnqs) : Repository accompanying the article "Design principles of deep translationally-symmetric neural quantum states for frustrated magnets", implementing a ConvNext-based NQS in Flax.
