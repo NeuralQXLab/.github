@@ -11,5 +11,8 @@ You can find here some of our public works
 
 ## Paper-associated repositories
 
+- [Neural Quantum States for the Body-Centered Cubic Lattice](https://github.com/NeuralQXLab/bcc-nqs) : Study of large 3D lattice Spin Models with NQS.
+- [Hybrid Classical-Quantum Spectra](https://github.com/NeuralQXLab/Hybrid-Algorithm-for-Molecular-Spectra) : A classical/quantum hybrid algorithm to combine Variational Monte Carlo methods with Quantum Computers to estimate Green's Functions.
+- [Importance Sampling for Neural Quantum States](https://github.com/NeuralQXLab/importance_sampling_nqs) : How to converge better and faster by sampling elsewhere.
 - [PTVMC Systematic Study](https://github.com/NeuralQXLab/ptvmc-systematic-study) : State-of-the-art implementation of Infidelity optimization for NetKet, as well as infidelity-based dynamics, with autotuning of hyperparameters.
 - [ConvNext NNQS](https://github.com/NeuralQXLab/convnextnnqs) : Repository accompanying the article "Design principles of deep translationally-symmetric neural quantum states for frustrated magnets", implementing a ConvNext-based NQS in Flax.
